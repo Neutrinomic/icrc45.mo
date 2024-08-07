@@ -1,6 +1,6 @@
 [package]
 name = "icrc45"
-version = "1.0.0"
+version = "0.1.0"
 description = "Icrc45 Market Data"
 repository = ""
 keywords = [ "defi", "market", "data" ]
