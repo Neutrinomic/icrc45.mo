@@ -2,7 +2,7 @@
 name = "icrc45"
 version = "0.1.0"
 description = "Icrc45 Market Data"
-repository = ""
+repository = "https://github.com/Neutrinomic/icrc45.mo"
 keywords = [ "defi", "market", "data" ]
 license = "Apache-2.0"
 
